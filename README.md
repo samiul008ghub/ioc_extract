@@ -31,5 +31,7 @@ awk
 
 ## File Structure
 zeek_ioc_extract.sh: The main script file.
+
 result_file.txt: Temporary file storing extracted data.
+
 result_file.csv: Output CSV file with timestamps.
