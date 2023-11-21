@@ -1,6 +1,6 @@
 # Zeek Intelligence Feeds Extractor
 
-This script extracts information from Zeek Intelligence Feed files and creates a CSV file with a timestamp.
+This script extracts information from Zeek Intelligence Feed files (IP address) and creates a CSV file with a timestamp.
 
 ## Overview
 
